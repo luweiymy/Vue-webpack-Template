@@ -1,7 +1,7 @@
 {
-  "name": "cv",
+  "name": "vuepro",
   "version": "1.0.0",
-  "description": "杨梦雅的简历",
+  "description": "vue项目配置案例",
   "main": "webpack.config.js",
   "sideEffects": false,
   "dependencies": {
@@ -36,8 +36,8 @@
     "url": "git+https://github.com/luweiymy/ymycv.git"
   },
   "keywords": [
-    "杨梦雅",
-    "简历"
+    "vue",
+    "vue项目"
   ],
   "author": "杨梦雅",
   "license": "ISC",
